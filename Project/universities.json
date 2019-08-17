@@ -1,0 +1,43 @@
+universities=
+[
+    {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "image": "dtu.png",
+        "location": "55.79, 12.52",
+        "name": "Technical University of Denmark",
+        "short_form": "DTU"
+    },
+    {
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "image": "epfl.png",
+        "location": "46.52, 6.57",
+        "name": "Ecole Polytechnique Fédérale de Lausanne",
+        "short_form": "EPFL"
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "image": "lx.png",
+        "location": "48.71, 2.21",
+        "name": "Ecole Polytechnique",
+        "short_form": "LX"
+    },
+    {
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "image": "tue.png",
+        "location": "51.45, 5.49",
+        "name": "Eindhoven University of Technology",
+        "short_form": "TU/e"
+    },
+    {
+        "city": "Munich",
+        "country": "Germany",
+        "image": "tum.png",
+        "location": "48.15, 11.57",
+        "name": "Technical University of Munich",
+        "short_form": "TUM"
+    }
+]

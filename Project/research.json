@@ -1,0 +1,4379 @@
+research=
+[
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2016,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2014,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2016,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2012,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2016,
+    "a_investment": 3
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2015,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2009,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2009,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2014,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2013,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2016,
+    "a_investment": 3
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2015,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2009,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2010,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2014,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2009,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2016,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2015,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2010,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2018,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2010,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2011,
+    "a_investment": 3
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "DTU",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2009,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2013,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2015,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2016,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2016,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Industrial Automation",
+    "f_year": 2018,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2015,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2014,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2009,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2015,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2013,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2016,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2016,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2010,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2016,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2017,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2018,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2016,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2010,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2015,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2010,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2017,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2015,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2016,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2013,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2011,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2012,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2013,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2009,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2013,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2017,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2012,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2016,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "EPFL",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2018,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2015,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2009,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2016,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2016,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2012,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Internet",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2013,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2010,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2009,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2016,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2012,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Internet",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2011,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2014,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Industrial Automation",
+    "f_year": 2009,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2011,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2010,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2015,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2012,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2015,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2010,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2017,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Industrial Automation",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2016,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2009,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2014,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2017,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2010,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2014,
+    "a_investment": 2
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2015,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 4
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2017,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "LX",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Internet",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2015,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2011,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2012,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2010,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2015,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2018,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2013,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2016,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2013,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2010,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2015,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2013,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2018,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2018,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2017,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2018,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Technology and Services",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Industrial Automation",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2015,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2016,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2013,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2012,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2009,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2012,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2010,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Architecture and Planning",
+    "f_year": 2017,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2010,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2017,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2018,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Telecommunications",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2015,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2012,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2010,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2009,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2012,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2016,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2011,
+    "a_investment": 2
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2018,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2010,
+    "a_investment": 1
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2014,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "TU/e",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Packaging and Containers",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2009,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2018,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Information Services",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2011,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "E-Learning",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2013,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2015,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2015,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2011,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2009,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Design",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2011,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2017,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2013,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2014,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Entertainment",
+    "f_year": 2009,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Environmental Services",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2013,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2016,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2017,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2016,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2010,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2011,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2016,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2014,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2014,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Internet",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2013,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2012,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2009,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2009,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2017,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Construction",
+    "f_year": 2014,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Renewables and Environment",
+    "f_year": 2009,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2010,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2017,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Transportation",
+    "f_year": 2018,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2012,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Apparel and Fashion",
+    "f_year": 2018,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2015,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2013,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2011,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2011,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Automotive",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Logistics and Supply Chain",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Cosmetics",
+    "f_year": 2010,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sports",
+    "f_year": 2013,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Consumer Electrionics",
+    "f_year": 2013,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Semiconductors",
+    "f_year": 2009,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2009,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2009,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2013,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Devices",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2012,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Real Estate",
+    "f_year": 2012,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer Software",
+    "f_year": 2012,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2014,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2011,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Sporting Goods",
+    "f_year": 2016,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Wireless",
+    "f_year": 2011,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2010,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Hospital and Health Care",
+    "f_year": 2018,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Pharmaceuticals",
+    "f_year": 2017,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2013,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Computer Software",
+    "f_year": 2017,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civic and Social Organization",
+    "f_year": 2017,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2018,
+    "a_investment": 1.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Chemicals",
+    "f_year": 2015,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Health, Wellness and Fitness",
+    "f_year": 2014,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Machinery",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2014,
+    "a_investment": 2
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Bitoechnology",
+    "f_year": 2018,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2016,
+    "a_investment": 2.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2010,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Mechanical or Industrial Engineering",
+    "f_year": 2012,
+    "a_investment": 3
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Health and Bio Engineering",
+    "subfield": "Medical Practice",
+    "f_year": 2013,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Entrepreneurship and Innovation",
+    "subfield": "Research",
+    "f_year": 2012,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Industrial Automation",
+    "f_year": 2018,
+    "a_investment": 4
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Smart and Urban Mobility",
+    "subfield": "Civil Engineering",
+    "f_year": 2015,
+    "a_investment": 4.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2016,
+    "a_investment": 3.5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "Data Science and Engineering",
+    "subfield": "Electrical/Electronic Manufacturing",
+    "f_year": 2013,
+    "a_investment": 5
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Enterteinment",
+    "f_year": 2011,
+    "a_investment": 1
+  },
+  {
+    "univ": "TUM",
+    "name": "X",
+    "field": "High Performance Computing",
+    "subfield": "Computer and Network Security",
+    "f_year": 2013,
+    "a_investment": 1
+  }
+]
